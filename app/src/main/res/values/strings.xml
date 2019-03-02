@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clipboard Demo App</string>
+    <string name="text_one">The quick brown fox jumps over the lazy dog</string>
+    <string name="text_two">Dear Jane, you can reach John via +1-555-55-34 or shoot him an email at john.doe@example.com. Enjoy your weekend.</string>
+</resources>
